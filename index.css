@@ -55,13 +55,13 @@
 
 }
 
-
+/* headder end part add  small images in bxes  */
 .end-1{
 width: 30px;
 height: 30px;
 background: transparent;
 }
-
+/* font style creation */
 
 .main-page-text{
   width: 100%;
@@ -121,6 +121,9 @@ background: transparent;
   font-size: 19px;
   margin-top: 27px;
 }
+
+/* create tow buttons end of the page */
+
 .first-colum button{ 
 width: 249px;
 height: 50px;
