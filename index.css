@@ -1,0 +1,537 @@
+*{
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:"Poppins", sans-serif;
+  color: white;
+  
+}
+.ferst-page-background{
+  width: 100%;
+  height: 100vh;
+  background-size:cover;
+  background-position: center;
+  background-image: url(images-tesla/1st\ page.jpeg);
+ 
+
+}
+  .navbar{
+    width: 100%;
+    height: 60px;
+    padding:10px 20px;
+    display: flex;
+    justify-content: space-between;
+   
+  }
+.logo{
+  height: 50px;
+  width: 120px;
+  
+  background: transparent;
+
+}.nav-center{
+  width: 425px;
+  height: 30px;
+  font-size:15px;
+  background: transparent;
+  display: flex;
+  justify-content: space-between;
+
+
+} 
+.nav-end{
+  width: 119px;
+  height: 30px;
+  background: transparent;
+  display: flex;
+  justify-content: space-between;
+
+}
+.nav-center .flex-1{
+  width: 70px;
+  height: 30px;
+  background: transparent;
+
+}
+
+
+.end-1{
+width: 30px;
+height: 30px;
+background: transparent;
+}
+
+
+.main-page-text{
+  width: 100%;
+  height: 160px;
+ 
+  margin-top: 23px;
+  display: flex;
+
+}
+.first-hedding {
+      font-size: 50px;
+      margin-left: 431px;
+      
+      text-align: center;
+  }
+.first-hedding-2 {
+ margin-left: 555PX;
+ text-align: center;
+ font-size: 50px;
+}
+.first-hedding-3 {
+  margin-left: -3PXPX;
+  text-align: center;
+  font-size: 50px;
+ }
+
+.line{
+  width: 100%;
+  position: absolute;
+  height: 10px;
+  top: 203px;
+    left: 436px;
+    width: 40.2%;
+  border-top: 2px solid rgb(255, 255, 255);
+}
+.second-hedding {
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.model{
+  margin-top: 30px;
+  font-size: 60px;
+  padding-top: 45px;
+  z-index: 100;
+}
+.first-page-last-hedding{
+  width: 100%;
+  height: 50px;
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  margin-top: 383px;
+}
+
+#cost {
+  font-size: 19px;
+  margin-top: 27px;
+}
+.first-colum button{ 
+width: 249px;
+height: 50px;
+background:#3e6ae1;
+display: flex;
+justify-content: center;
+align-items: center;
+border: none;
+border-radius: 4px;
+}
+.second-colum button{
+  width: 249px;
+  height: 50px;
+  background:white;
+  margin-left:20px ;
+ display: flex;
+  justify-content: center;
+  border: none;
+  border-radius: 4px;
+  align-items: center;
+  color: black;
+}
+.second-colum {
+  font-size: 10px;
+  
+}
+/* second page start */
+
+.space{
+  height: 50px;
+}
+
+.second-page{
+  width: 100%;
+  height: 100vh;
+  background-size:cover;
+  background-position: center;
+  background-image: url(images-tesla/Homepage-Model-Y-Desktop-US-v2.jpeg);
+  
+
+}
+.line2{
+  width: 100%;
+  position: absolute;
+  height: 10px;
+  top: 183px;
+  width: 47%;
+  border-top: 2px solid rgb(255, 255, 255);
+}
+.second-hedding2{
+ 
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 129px;
+  
+}
+.second-hedding2-h1{
+  font-size: 20px;
+}
+
+
+
+/* 3rd page start */
+
+
+.therd-page{
+  width: 100%;
+  height: 100vh;
+  background-size:cover;
+  background-position: center;
+  background-image: url(images-tesla/model-x.jpeg);
+}
+
+.line3{
+  
+    
+    position: absolute;
+    height: 10px;
+    
+    width: 21%;
+    border-top: 2px solid rgb(255, 255, 255);
+
+  }
+
+
+.therd-hedding{
+  font-size: 10px;
+}
+#cost3d{
+  font-size: 30px;
+  font-weight: 500;
+}
+.line3-2{
+  position: absolute;
+    height: 10px;
+    
+    width: 19%;
+    border-top: 2px solid rgb(255, 255, 255);
+ 
+}
+
+
+/* 4th  page started */
+.forth-page{
+  width: 100%;
+  height: 100vh;
+  background-size:cover;
+  background-position: center;
+  background-image: url(images-tesla/4th.jpeg);
+}
+
+.line4{
+  position: absolute;
+    height: 10px;
+    
+    width: 20%;
+    border-top: 2px solid rgb(255, 255, 255);
+ 
+}
+/* 5the page */
+
+.fifth-page{
+  width: 100%;
+  height: 100vh;
+  background-size:cover;
+  background-position: center;
+  background-image: url(images-tesla/5th.jpg);
+}
+ .logo-image{
+  width: 100%;
+  height: 160px;
+  background:transparent;
+  display: flex;
+  justify-content: center;
+  
+} 
+.logo-image img {
+  width: 580px;
+  height: 280px;
+} 
+.left-button button{ 
+  width: 249px;
+  height: 50px;
+  background:#3e6ae1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+}
+.fiftpage-first-colum{
+  width: 249px;
+  height: 50px;
+  background: #3e6ae1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  border-top: 4px solid white;
+}
+  
+  .reight-button button{
+    width: 249px;
+    height: 50px;
+    background:rgb(0, 0, 0);
+    margin-left:20px ;
+   display: flex;
+    justify-content: center;
+    border: none;
+    border-radius: 4px;
+    align-items: center;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+  } 
+  .left-button{
+    width: 249px;
+    height: 50px;
+    background:#515050;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    cursor: pointer;
+    color: white;
+    } 
+    .fifth-page-last-hedding{
+      width: 100%;
+      height: 50px;
+      background: transparent;
+      display: flex;
+      justify-content: center;
+      margin-top:410px;
+    }
+
+/* 6th page start  */
+  
+.sixth-page{
+  width: 100%;
+  height: 100vh;
+  background-size:cover;
+  background-position: center;
+  background-image: url(images-tesla/6th\ page.jpeg);
+}
+.line-six-page{
+  width: 100%;
+  position: absolute;
+  height: 10px;
+  top: 118px;
+  width: 550px;
+  border-top: 2px solid rgb(255, 255, 255);
+}
+
+  
+.sixt-page-last-hedding{
+  width: 100%;
+  height: 50px;
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  /* margin-top:480px; */
+  margin-left: -142px;
+} 
+
+
+
+
+
+/* 7th page  start*/
+
+
+
+.space{
+  height: 50px;
+}
+
+.seventh-page{
+  width: 100%;
+  height: 100vh;
+  background-size:cover;
+  background-position: center;
+  background-image: url(images-tesla/7th\ page.jpeg);
+  
+
+}
+.line2{
+  width: 100%;
+  position: absolute;
+  height: 10px;
+  top: 183px;
+  width: 47%;
+  border-top: 2px solid rgb(255, 255, 255);
+}
+.second-hedding2{
+ 
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 129px;
+  
+}
+.second-hedding2-h1{
+  font-size: 20px;
+}
+
+/* 8th page */
+
+.space{
+  height: 50px;
+}
+
+.eigth-page{
+  width: 100%;
+  height: 100vh;
+  background-size:cover;
+  background-position: center;
+  background-image: url(images-tesla/8th.jpeg);
+  
+
+}
+.line2{
+  width: 100%;
+  position: absolute;
+  height: 10px;
+  top: 183px;
+  width: 47%;
+  border-top: 2px solid rgb(255, 255, 255);
+}
+.second-hedding2{
+ 
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 129px;
+  
+}
+.second-hedding2-h1{
+  font-size: 20px;
+}
+
+
+/* 9th page */
+  
+.space{
+  height: 50px;
+}
+
+.nineth-page{
+  width: 100%;
+  height: 100vh;
+  background-size:cover;
+  background-position: center;
+  background-image: url(images-tesla/9th.jpeg);
+  display: flex;
+  justify-content: center;
+  padding-left: 150px;
+
+}
+.line2{
+  width: 100%;
+  position: absolute;
+  height: 10px;
+  top: 183px;
+  width: 47%;
+  border-top: 2px solid rgb(255, 255, 255);
+}
+.second-hedding2{
+ 
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 129px;
+  
+}
+.second-hedding2-h1{
+  font-size: 20px;
+}
+
+.first-page-last-hedding-2{
+  width: 100%;
+  height: 50px;
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  margin-top: 487px;
+
+}
+.first-page-last-hedding-3{
+  width: 100%;
+  height: 50px;
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  margin-top: 444px;
+
+}
+.footer{
+  width: 100%;
+  height: 500px;
+  background:#000;
+  display: flex;
+  justify-content: center;
+}
+.footer-first-box{
+  width: 700px;
+  height: 500px;
+  background:transparent;
+  padding-top: 40px;
+}
+
+
+.last-page-last-hedding-2{
+  
+    width: 100%;
+    height: 50px;
+    background:transparent;
+    display: flex;
+    justify-content: center;
+    margin-top: 543px;
+    
+  
+  }
+  
+.footer-first-box p{
+  font-size: 12px;
+  text-align: center;
+  margin-bottom:15px ;
+
+
+}
+.footer-first-box span{
+border-bottom: 1px solid #fff;
+cursor: pointer;
+}
+.footer-end{
+  width: 100%;
+  height: 34px; 
+background:transparent;
+margin-top: 75px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.footer-end p {
+  margin-right: 25px;
+  cursor: pointer;
+}
